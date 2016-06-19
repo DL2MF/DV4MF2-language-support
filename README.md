@@ -28,14 +28,15 @@ Running <b>Linux</b> currently caused a <b>compatibilty issue</b> up to V2.0.0.1
 - en-GB*- English    (build-in + language file)
 - en-US - English US (build-in + language file)- 
 - de-DE - German     (build-in + language file)
+- da-DK - Dansk      tnx to Svend, OZ1EKD   - NEW!
 - fr-FR - Francais   tnx to Frederic, F4EED 
 - it-IT - Italiano   tnx to Franco, HB9OAB
 - es-ES - Espaniol   tnx to Iñigo, EA2CQ
-- pt-PT - Português  tnx to José, CT1JIB
 - nl-NL - Nederlands tnx to Rudy, PD0ZRY and Walter, PD2WGN
-- nl-BE - Flemisch   tnx to Bas, ON2HB    - NEW!
-- sv-SE - Swedish    tnx to Johan, SM0TSC
+- nl-BE - Flemisch   tnx to Bas, ON2HB
 - nb-NO - Norsk      tnx to Gaute, LB6YD 
+- pt-PT - Português  tnx to José, CT1JIB
+- sv-SE - Swedish    tnx to Johan, SM0TSC
 - us-ER - User       a template available to create your own language
 
 *to use one of this language please try V2.0.0.10 (with old language file format) or upgrade to V2.0.0.12 when available, english also available as built-in language, rename or delete /languages folder to use built-in languages!
@@ -49,7 +50,6 @@ Running <b>Linux</b> currently caused a <b>compatibilty issue</b> up to V2.0.0.1
 
 <b><i>Languages we are looking for contributors (simply take the english file as your template):</b></i>
 - be-NL - Belgium   (language file) *looking for a contributor
-- da-DK - Dansk     (language file) *looking for a contributor
 - cs-CZ - Czech     (language file) *under translation 
 - ru-RU - русский   (language file) *looking for a contributor
 - your file - please send us your translation

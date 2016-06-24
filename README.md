@@ -13,6 +13,8 @@ The control panel dynamically loads at startup available languages, the availabl
 
 Announcement:
 ===================
+We are glad to announce 2 new european languages just in time with the HAMRADIO in Friedrichshafen, Germany. Within the last week the work an danish translation, tnx to Svend, OZ1EKD and polish translation, tnx to Sebastian, SP2FRN has been finished.
+
 The new release V2.0.0.12 has been released May 21th, 2016 and does require a change of the default english language file, that must be named now with the standard ISO-code en-GB (instead of en-EN). The program checks and will display a warning, if the default file could not be found. All available language files have been prepared to support ISO language codes (nb-NO Norsk, en-US American english and some more).
 
 
@@ -28,13 +30,14 @@ Running <b>Linux</b> currently caused a <b>compatibilty issue</b> up to V2.0.0.1
 - en-GB*- English    (build-in + language file)
 - en-US - English US (build-in + language file)- 
 - de-DE - German     (build-in + language file)
-- da-DK - Dansk      tnx to Svend, OZ1EKD   - NEW!
+- da-DK - Dansk      tnx to Svend, OZ1EKD   - ###  NEW!  ###
 - fr-FR - Francais   tnx to Frederic, F4EED 
 - it-IT - Italiano   tnx to Franco, HB9OAB
 - es-ES - Espaniol   tnx to Iñigo, EA2CQ
 - nl-NL - Nederlands tnx to Rudy, PD0ZRY and Walter, PD2WGN
 - nl-BE - Flemisch   tnx to Bas, ON2HB
 - nb-NO - Norsk      tnx to Gaute, LB6YD 
+- pl-PL - Polish     tnx to Sebastian, SP2FRN   - ###  NEW!  ###
 - pt-PT - Português  tnx to José, CT1JIB
 - sv-SE - Swedish    tnx to Johan, SM0TSC
 - us-ER - User       a template available to create your own language
